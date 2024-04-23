@@ -23,6 +23,6 @@ permalink: /
 1.冷凍うどんを電子レンジでチンする  
 2.うどんを熱いまま皿に盛る  
 3.青ネギ、揚げ玉、醤油または麺つゆを好みの量かけて完成！  
-![image](act-kithub/GHPages_WebSite/assets/images/kamatama.jpg)
+![image](/koudadada_WebSite/assets/images/kamatama.jpg)
 
 [参考にしたリンク](https://oceans-nadia.com/user/64286/recipe/395364)
