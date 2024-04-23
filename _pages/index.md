@@ -1,6 +1,6 @@
 
 ---
-title: "aaa"
+title: "時短飯の紹介"
 author: default
 permalink: /
 ---
